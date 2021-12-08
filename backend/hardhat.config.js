@@ -38,7 +38,7 @@ module.exports = {
   solidity: "0.5.4",
   networks: {
     ganache: {
-      url: "http://127.0.0.1:7545",
+      url: "http://127.0.0.1:8545",
       gasLimit: 6000000000,
       defaultBalanceEther: 10,
     },
